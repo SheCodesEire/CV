@@ -1,0 +1,10 @@
+.heading {font-weight: bold; background: rgb(255, 0, 0, .25);
+    padding: 10px; border: 1px solid red}
+.color {color:blue;}
+.color2 {color: red}
+dt{font-size: 150%}
+.intro {font-size: 120%;}
+.font {font-family: sans-serif;}
+a:hover {color: green;
+  background-color:white ;}
+.nodot {list-style-type: none;}
